@@ -1,0 +1,10 @@
+1. New app create
+2. Create componenet
+3. Add app.route
+4. Component route path
+5. Add service
+6. Call APIs with http service
+7. Bind data
+8. Add loader on API call with interceptor
+9. Add error interceptor
+10. Create Pipe
