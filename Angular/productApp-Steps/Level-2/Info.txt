@@ -1,6 +1,6 @@
 1. call api with auth headers
-2. Observables, subscribe, prmose, rxjs meaning
-3. Interceptor meaning
+2. Observables, subscribe, promise, rxjs description
+3. Interceptor description
 4. Pipes
 5. Reactive forms
 6. Parent child componenets data passing
